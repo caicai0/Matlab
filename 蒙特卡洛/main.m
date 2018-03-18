@@ -11,9 +11,9 @@ Db = 242.72; %b溶液粘度   um^2/s
 
 dataLength = 10000;%待发送的数据长度
 
-Qa = 250;
+Qa = 850;
 makeData;
-save data_Q250;
+save data_Q850;
 
 
 

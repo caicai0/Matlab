@@ -1,5 +1,6 @@
 
 dt = 30; %µ•Œª√Î s
+threshold = 
 
 dataLength = length(data);
 dx = 0:dt:dt*(dataLength);
